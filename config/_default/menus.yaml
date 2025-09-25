@@ -1,0 +1,33 @@
+leftnav:
+- identifier: 0d4e0043-7b7d-a1cf-7d92-fd3cb143eeac
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: bc45e2ee-f4ef-4760-4b80-ed2088ba2932
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: 1e9f448f-60ad-28ea-8269-607f170b5f12
+  name: Readings
+  pageRef: /pages/readings
+  weight: 30
+- identifier: e51706db-66d3-6af1-4707-421504bda995
+  name: Lecture Notes
+  pageRef: /pages/lecture-notes
+  weight: 40
+- identifier: b7ae3287-bb66-f7d3-5a1a-6d192ceeb6f5
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 50
+- identifier: 3a54956e-4719-9459-9f81-e69482a3cd40
+  name: Cape Cod Trip
+  pageRef: /video_galleries/cape-cod-trip
+  weight: 60
+- identifier: 44aea9c1-feec-1a7a-b9d2-ee7fd22644fa
+  name: Bangladesh Study
+  pageRef: /video_galleries/bangladesh-study
+  weight: 70
+- identifier: 6ba16deb-d26d-810e-431c-8fe3e290f5fe
+  name: Solute Transport
+  pageRef: /video_galleries/solute-transport
+  weight: 80
