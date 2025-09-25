@@ -28,6 +28,7 @@
     "website": "1-72-groundwater-hydrology-fall-2005"
   },
   "course_title": "Groundwater Hydrology",
+  "hide_download": true,
   "course_description": "This course covers fundamentals of subsurface flow and transport, emphasizing the role of groundwater in the hydrologic cycle, the relation of groundwater flow to geologic structure, and the management of contaminated groundwater. The class includes laboratory and computer demonstrations.\n",
   "department_numbers": [
     "1"
@@ -38,6 +39,7 @@
     "content": "3644308e-ba78-edfc-9229-45c830f73714",
     "website": "1-72-groundwater-hydrology-fall-2005"
   },
+  "hide_download_original": null,
   "learning_resource_types": [
     "Simulation Videos",
     "Lecture Notes",

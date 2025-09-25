@@ -5,6 +5,8 @@ description: This packet contains an overview of the lecture along with diagrams
 file: /courses/1-72-groundwater-hydrology-fall-2005/49def90adaabdeaa4c27a66bad35f0bb_1_72_lecture_13.pdf
 file_size: 166060
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
