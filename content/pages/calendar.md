@@ -1,6 +1,8 @@
 ---
 content_type: page
 description: The calendar section includes the course outline along with the key dates.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar

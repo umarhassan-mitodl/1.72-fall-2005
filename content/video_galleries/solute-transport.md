@@ -1,6 +1,8 @@
 ---
 content_type: video_gallery
 description: This section contains four animations showing adsorption and mass transfer.
+hide_download: true
+hide_download_original: null
 is_media_gallery: true
 learning_resource_types: []
 ocw_type: CourseSection

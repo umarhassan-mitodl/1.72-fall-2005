@@ -2,6 +2,8 @@
 content_type: video_gallery
 description: This section offers videos from the class field trip to the Cape Cod,
   MA USGS experimental site and Waquoit Bay National Estuary.
+hide_download: true
+hide_download_original: null
 is_media_gallery: true
 learning_resource_types: []
 ocw_type: CourseSection

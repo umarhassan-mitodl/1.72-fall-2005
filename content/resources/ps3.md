@@ -4,6 +4,8 @@ description: This resource includes questions on cross section and the data prov
 file: /courses/1-72-groundwater-hydrology-fall-2005/6aede2209bcbe01ff27fa0eb4634c2fe_ps3.pdf
 file_size: 642892
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
