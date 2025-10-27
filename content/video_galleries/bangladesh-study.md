@@ -2,8 +2,6 @@
 content_type: video_gallery
 description: This section contains the video and presentations of a case study and
   field trip recently undertaken in Bangladesh.
-hide_download: true
-hide_download_original: null
 is_media_gallery: true
 learning_resource_types: []
 ocw_type: CourseSection

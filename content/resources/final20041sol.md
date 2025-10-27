@@ -5,8 +5,6 @@ description: This resource includes solutions to thw questions included in the f
 file: /courses/1-72-groundwater-hydrology-fall-2005/74fa77b25ea16a1ed0399a9da5c43465_final20041sol.pdf
 file_size: 129456
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

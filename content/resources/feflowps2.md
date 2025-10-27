@@ -4,8 +4,6 @@ description: This resource includes information on extra credits, and relevent q
 file: /courses/1-72-groundwater-hydrology-fall-2005/3b70f146865a814ca33ef6a67fc2fda8_feflowps2.pdf
 file_size: 19949
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
